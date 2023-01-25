@@ -1,0 +1,23 @@
+[{
+    "menu":"Admin",
+    "header":"Admin"
+},{
+    "menu":"PIM",
+    "header":"PIM"
+},{
+    "menu":"Leave",
+    "header":"Leave"
+},{
+    "menu":"Time",
+    "header":"Time"
+},{
+    "menu":"Recruitment",
+    "header":"Recruitment"
+},{
+    "menu":"My Info",
+    "header":"PIM"
+},{
+    "menu":"Dashboard",
+    "header":"Dashboard"
+}
+]
